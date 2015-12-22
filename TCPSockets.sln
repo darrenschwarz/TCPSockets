@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousServerSocket", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousClientSocket", "src\AsynchronousClientSocket\AsynchronousClientSocket.csproj", "{9B124692-5732-4006-814C-C04F253A5B9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpClient", "src\TcpClient\TcpClient.csproj", "{979B0499-C76E-46A2-8D61-2BB9047A0C39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9B124692-5732-4006-814C-C04F253A5B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B124692-5732-4006-814C-C04F253A5B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B124692-5732-4006-814C-C04F253A5B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979B0499-C76E-46A2-8D61-2BB9047A0C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979B0499-C76E-46A2-8D61-2BB9047A0C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979B0499-C76E-46A2-8D61-2BB9047A0C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979B0499-C76E-46A2-8D61-2BB9047A0C39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
